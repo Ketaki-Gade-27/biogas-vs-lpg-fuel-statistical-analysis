@@ -47,10 +47,10 @@ Excel → Data visualization (charts, graphs) [not uploaded here].
 ---
 
 ### Future Scope:
-Extend study to multiple villages/regions for wider insights.
+- Extend study to multiple villages/regions for wider insights.
 
-Long-term monitoring of fuel-switching behavior.
+- Long-term monitoring of fuel-switching behavior.
 
-Policy-level recommendations for cleaner energy adoption in rural households.
+- Policy-level recommendations for cleaner energy adoption in rural households.
 
 ---
